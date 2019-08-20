@@ -168,8 +168,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #d4093c !important;
-  border-color: #d4093c !important;
+  background-color: #c63e0e !important;
+  border-color: #c63e0e !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -177,14 +177,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #8b0627 !important;
-  border-color: #8b0627 !important;
+  background-color: #7f2809 !important;
+  border-color: #7f2809 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #8b0627 !important;
-  border-color: #8b0627 !important;
+  background-color: #7f2809 !important;
+  border-color: #7f2809 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -332,22 +332,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #720520;
-  color: #720520;
+  border-color: #672007;
+  color: #672007;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #d4093c;
-  border-color: #d4093c;
+  background-color: #c63e0e;
+  border-color: #c63e0e;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #d4093c !important;
-  border-color: #d4093c !important;
+  background-color: #c63e0e !important;
+  border-color: #c63e0e !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #d4093c !important;
+  color: #c63e0e !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -493,7 +493,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #720520 !important;
+  color: #672007 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1410,7 +1410,7 @@ body {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #ffffff !important;
-  background: #d4093c !important;
+  background: #c63e0e !important;
   box-shadow: none !important;
 }
 .cid-rzEQ6s5mJW .navbar {
